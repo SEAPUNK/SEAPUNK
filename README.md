@@ -1,16 +1,13 @@
-### Hi there 👋
+hey
 
-<!--
-**SEAPUNK/SEAPUNK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://gist.githubusercontent.com/SEAPUNK/9e97d5125d13bfaba2cafec2b8fa9086/raw/0259a150d92119059bda20a2d0b713e848acb59f/0.gif)
 
-Here are some ideas to get you started:
+![](https://gist.githubusercontent.com/SEAPUNK/9e97d5125d13bfaba2cafec2b8fa9086/raw/0259a150d92119059bda20a2d0b713e848acb59f/0.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://gist.githubusercontent.com/SEAPUNK/9e97d5125d13bfaba2cafec2b8fa9086/raw/0259a150d92119059bda20a2d0b713e848acb59f/0.gif)
+
+![](https://gist.githubusercontent.com/SEAPUNK/9e97d5125d13bfaba2cafec2b8fa9086/raw/0259a150d92119059bda20a2d0b713e848acb59f/0.gif)
+
+![](https://gist.githubusercontent.com/SEAPUNK/9e97d5125d13bfaba2cafec2b8fa9086/raw/0259a150d92119059bda20a2d0b713e848acb59f/0.gif)
+
+![](https://gist.githubusercontent.com/SEAPUNK/9e97d5125d13bfaba2cafec2b8fa9086/raw/0259a150d92119059bda20a2d0b713e848acb59f/0.gif)
