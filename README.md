@@ -9,7 +9,7 @@
   <br>
   <br>
 
-  <p align="center">pee ass</p>
+  <p align="center"><img src="https://cdn.betterttv.net/emote/5df5cedba9b7773bc0e6d231/2x" /></p>
 
   <br>
   <br>
