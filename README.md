@@ -9,7 +9,7 @@
   <br>
   <br>
 
-  <p align="center"><img src="https://cdn.discordapp.com/emojis/822682887140540417.gif?v=1"></p>
+  <p align="center"><img src="https://cdn.discordapp.com/emojis/822682887140540417.gif?v=1"></p><br><br><br><br>
 
   <br>
   <br>
