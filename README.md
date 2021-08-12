@@ -9,7 +9,7 @@
   <br>
   <br>
 
-  <p align="center"><a target="_blank" href="https://www.youtube.com/watch?v=dClKBzlrlN0"><img src="https://ivan.moe/borpaSpin.gif"></a></p>
+  <p align="center"><a target="_blank" href="https://www.youtube.com/watch?v=sf6tft-J1bs"><img src="https://ivan.moe/borpaSpin.gif"></a></p>
 
   <br>
   <br>
