@@ -9,7 +9,7 @@
   <br>
   <br>
 
-  <p align="center">if anime girls were real (and all had a crush on me) i think that would be pretty sweet</p>
+  <p align="center">if anime girls were real (and they all had a crush on me) i think that would be pretty sweet</p>
 
   <br>
   <br>
