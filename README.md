@@ -9,7 +9,7 @@
   <br>
   <br>
 
-  <p align="center"><a target="_blank" href="https://www.youtube.com/watch?v=sf6tft-J1bs"><img src="https://ivan.moe/borpaSpin.gif"></a></p>
+  <p align="center">if anime girls were real (and all had a crush on me) i think that would be pretty sweet</p>
 
   <br>
   <br>
