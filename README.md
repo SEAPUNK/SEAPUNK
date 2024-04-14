@@ -24,3 +24,8 @@
     <img width="600" src="https://images.genius.com/48cf13098702a7764d37717965eaa3cd.1000x1000x1.png" />
   </a> -->
 </p>
+<br>
+
+### my ✨BRAND✨NEW✨ "polished" project list
+- [recaller](https://github.com/SEAPUNK/recaller) - async/await based function retry utility
+- i'll list more here as i go through my repos and clean em up
