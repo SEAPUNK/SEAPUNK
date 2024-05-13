@@ -27,5 +27,10 @@
 <br>
 
 ### my ✨BRAND✨NEW✨ "polished" project list
+bigger things
+- [atsugami](https://github.com/SEAPUNK/atsugami) - a nicer booru browser
+
+smaller things
 - [recaller](https://github.com/SEAPUNK/recaller) - async/await based function retry utility
-- i'll list more here as i go through my repos and clean em up
+
+i'll list more here as i go through my repos and clean em up
