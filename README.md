@@ -38,4 +38,4 @@ i'll list more here as i go through my repos and clean em up
 
 
 ```math
-\ce{$\unicode[pointer-events: none; z-index: -10; position: fixed; bottom: 0; left: 0; height: 100vh; object-fit: cover; width: 130vw; opacity: 0.5; background-image: url('https://github.com/SEAPUNK/SEAPUNK/blob/master/cat-cheese.gif?raw=true'); background-position: bottom left; background-repeat: no-repeat; background-size: 30%;]{x0000}$
+\ce{$\unicode[serif; pointer-events: none; user-select: none; z-index: -10; position: fixed; bottom: 0; left: 0; height: 100vh; object-fit: cover; width: 130vw; opacity: 0.5; background-image: url('https://github.com/SEAPUNK/SEAPUNK/blob/master/__sakura_miko_and_sakura_miko_hololive_drawn_by_fuwafuwa_35__130d8f346b333be1bbe2ddca08530556.gif?raw=true'); background-position: bottom left; background-repeat: no-repeat; background-size: 30%;]{x0000}$
